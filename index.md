@@ -1,2 +1,2 @@
-# Welcome to S1lv2d3r4n's Page
-This is a placeholder page until the Wiki is formed
+# Welcome to S1lv2d3r4n's Page / Wiki Hub
+Luces Siegas Wiki [Luces Siegas Wiki](lsstart.md)
