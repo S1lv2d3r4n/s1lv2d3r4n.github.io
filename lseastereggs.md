@@ -12,4 +12,7 @@ Here is an non-exhaustive list of cheat codes found inside the current version o
 - **vendedoradeamor** - Changes the player's countryball's gender to the opposite gender
 - **muertealamigra** - Sets the player's endurance `e` and speed `v` Stats to the maximum `17`
 - **gib** - When followed by a number, it gives the player the item id for example `gib31` gives the player an Iron Axe id: `31`
-
+- **8005882300** (no spaces or hyphens) - Jumpscares the player with the _Empire Today_ commerical from the 2000s
+- **jumpscare180** - Plays the Soviet Anthem and overlays the player's screen with the Soviet Flag
+- **jumpscareusa** - Jumpscares the player with a ~~propaganda leaflet~~ eagle meme
+- **jumpscare503** - Jumpscares the player with the Salvadoran Flag 
