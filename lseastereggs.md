@@ -1,7 +1,7 @@
 # Luces Siegas Easter Eggs
 
 Easter Eggs are hidden features and codes found inside of  ~~El Salvador World Domination Simulator~~ **Luces Siegas**, which
-  can be accessed with various methods such as the many Cheat Codes and Settings
+can be accessed with various methods such as the many Cheat Codes and Settings
 
 ## Cheat Codes
 Cheat Codes (Called passwords in game) are accessed in game by pressing the **Insert** key on your keyboard
