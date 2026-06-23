@@ -8,3 +8,6 @@ The Player is a ![Countryball](images/blankico.png) [Countryball](countryballs.m
 - `F` - Interact
 - `LeftClick` - Break Block / Attack
 - `RightClick` - View Block Name
+- `Space` - Jump (with an arrow key held)
+- `1` through `5` - Inventory Slots
+- `Insert` - [Cheat Codes](lseastereggs.md)
