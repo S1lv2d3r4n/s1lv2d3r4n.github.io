@@ -118,3 +118,80 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Myanmar|![Myanmarball](images/myanmar.png)|`108`|myanmar|
 |Laos|![Laosball](images/laos.png)|`109`|laos|
 |Cambodia|![Cambodiaball](images/cambodia.png)|`110`|camboya|
+|Vietnam|![Vietnamball](images/vietnam.png)|`111`|vietnam|
+|Malaysia|![Malaysiaball](images/malaysia.png)|`112`|malasia|
+|Thailand|![Thailandball](images/thailand.png)|`113`|tailandia|
+|Indonesia|![Indonesiaball](images/indonesia.png)|`114`|indonesia|
+|Philippines|![Philippinesball](images/philippines.png)|`115`|filipinas|
+|Israel|![Israelcube](images/israel.png)|`116`|israel|
+|Australia|![Australiaball](images/australia.png)|`117`|australia|
+|New Zealand|![New Zealandball](images/newzealand.png)|`118`|nuevazelanda|
+|Egypt|![Egyptball](images/egypt.png)|`119`|egipto|
+|Sudan|![Sudanball](images/sudan.png)|`120`|sudan|
+|South Sudan|![South Sudanball](images/southsudan.png)|`121`|sudandelsur|
+|Libya|![Libyaball](images/libya.png)|`122`|libia|
+|Algeria|![Algeriaball](images/algeria.png)|`123`|argelia|
+|Morocco|![Moroccoball](images/morocco.png)|`124`|marruecos|
+|Mauritania|![Mauritaniaball](images/mauritania.png)|`125`|mauritania|
+|Tunisia|![Tunisiaball](images/tunisia.png)|`126`|tunez|
+|Blankball|![Blankball](images/blank.png)|`127`|enblanco|
+|Somalia|![Somaliaball](images/somalia.png)|`128`|somalia|
+|Kenya|![Kenyaball](images/kenya.png)|`129`|kenia|
+|Ethiopia|![Ethiopiaball](images/ethiopia.png)|`130`|etiopia|
+|Eritrea|![Eritreaball](images/eritrea.png)|`131`|eritrea|
+|Djibouti|![Djiboutiball](images/djibouti.png)|`132`|yibuti|
+|Blank Blackball|![Blank Blackball](images/blank2.png)|`133`|enblanco2|
+|Niger|![Nigerball](images/niger.png)|`134`|niger|
+|Nigeria|![Nigeriaball](images/nigeria.png)|`135`|nigeria|
+|Chad|![Chadball](images/chad.png)|`136`|chad|
+|Mali|![Maliball](images/mali.png)|`137`|mali|
+|Senegal|![Senegalball](images/senegal.png)|`138`|senegal|
+|Guinea|![Guineaball](images/guinea.png)|`139`|guinea|
+|Cote d'Ivoire (Ivory Coast)|![IvoryCoastball](images/cotedivoire.png)|`140`|ivorycoast|
+|Burkina Faso|![Burkinafasoball](images/burkinafaso.png)|`141`|burkinafaso|
+|Sierra Leone|![SierraLeoneball](images/sierraleone.png)|`142`|sierraleona|
+|Liberia|![Liberiaball](images/liberia.png)|`143`|liberia|
+|Cameroon|![Cameroonball](images/cameroon.png)|`144`|camerun|
+|Ghana|![Ghanaball](images/ghana.png)|`145`|ghana|
+|Benin|![Beninball](images/benin.png)|`146`|benin|
+|Togo|![Togoball](images/togo.png)|`147`|togo|
+|Gabon|![Gabonball](images/gabon.png)|`148`|gabon|
+|Madagascar|![Madagascarball](images/madagascar.png)|`149`|madagascar|
+|Botswana|![Botswanaball](images/botswana.png)|`150`|botsuana|
+|Malawi|![Malawiball](images/malawi.png)|`151`|malaui|
+|Republic of the Congo|![Congoball](images/congo.png)|`152`|congo|
+|Democratic Republic of the Congo|![DRCball](images/drc.png)|`153`|congo2|
+|Namibia|![Namibiaball](images/namibia.png)|`154`|namibia|
+|Testball|![Testball](images/testball.png)|`155`|pruebas|
+|Angola|![Angolaball](images/angola.png)|`156`|angola|
+|Tanzania|![Tanzaniaball](images/tanzania.png)|`157`|tanzania|
+|Mozambique|![Mozambiqueball](images/mozambique.png)|`158`|mozambique|
+|Gambia|![Gambiaball](images/gambia.png)|`159`|gambia|
+|Guinea-Bissau|![GuineaBissauball](images/guineabissau.png)|`160`|guineabissau|
+|Equatorial Guinea|![EquatorialGuineaball](images/equatorialguinea.png)|`161`|guineaecuatorial|
+|Lesotho|![Lesothoball](images/lesotho.png)|`162`|lesoto|
+|South Africa|![SouthAfricaball](images/southafrica.png)|`163`|sudafrica|
+|Eswatini|![Eswatiniball](images/eswatini.png)|`164`|esuatini|
+|Zambia|![Zambiaball](images/zambia.png)|`165`|zambia|
+|Uganda|![Ugandaball](images/uganda.png)|`166`|uganda|
+|Zimbabwe|![Zimbabweball](images/zimbabwe.png)|`167`|zimbabue|
+|Rwanda|![Rwandaball](images/rwanda.png)|`168`|ruanda|
+|Burundi|![Burundiball](images/burundi.png)|`169`|burundi|
+|Comoros|![Comorosball](images/comoros.png)|`170`|comoros|
+|Seychelles|![Seychellesball](images/seychelles.png)|`171`|seychelles|
+|Sao Tome and Principe|![Saotomeball](images/saotomeandprincipe.png)|`172`|saotome|
+|Central African Republic|![Central African Republicball](images/centralafricanrepublic.png)|`173`|republicacentroafricana|
+|Mauritius|![Mauritiusball](images/mauritius.png)|`174`|mauricio|
+|Cape Verde|![Cape Verdeball](images/capeverde.png)|`175`|caboverde|
+|Papua New Guinea|![Papua New Guineaball](images/papuanewguinea.png)|`176`|papuanuevaguinea|
+|Palau|![Palauball](images/palau.png)|`177`|palau|
+|Nauru|![Nauruball](images/nauru.png)|`178`|nauru|
+|East Germany|![East Germanyball](images/ostdeustchland.png)|`179`|alemaniadeleste|
+|Soviet Union|![Soviet Unionball](images/sovietunion.png)|`180`|unionsovietica|
+|Civilian Ensign (El Salvador)|![ElSalvadorCivilianEnsignball](images/elsalvadorcivil.png)|`181`|elsalvador2|
+|Austrian Empire|![AustrianEmpireball](images/austrianempire.png)|`182`|austria2|
+|Yugoslavia|![Yugoslaviaball](images/yugoslavia.png)|`183`|yugoslavia|
+|Federal Republic of Central America|![FRCAball](images/federalrepublicofcentralamerica.png)|`184`|republicafederaldecentroamerica|
+|Reichtangle|![Reichtangle](images/reichtangle.png)|`185`|reichtanglo|
+|El Salvador (1840s flag)|![ElSalvador1840sball](images/elsalvador_1840s.png)|`186`|elsalvador3|
+|Cabañas|![Cabañasball](images/cabanas.png)|`187`|cabanas|
