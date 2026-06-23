@@ -7,5 +7,6 @@ only playable characters in the game.
 There are a total of 189 Countryballs in the game and 191 total IDs (189 Countryballs and 2 special IDs)
 |Name|Image|ID|Internal Name|
 |----|----|----|----|
-|El Salvador|![El Salvadorball](images/blank.png)|`1`|elsalvador|
+|El Salvador|![El Salvadorball](images/elsalvador.png)|`1`|elsalvador|
 |Guatemala|![Guatemalaball](images/guatemala.png)|`2`|guatemala|
+|Mexico|![Mexicoball](images/mexico.png)|`3`|mexico|
