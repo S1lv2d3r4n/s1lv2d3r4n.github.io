@@ -29,25 +29,25 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Suriname|![Surinameball](images/suriname.png)|`19`|suriname|
 |Guyana|![Guyanaball](images/guyana.png)|`20`|guyana|
 |Uruguay|![Uruguayball](images/uruguay.png)|`21`|uruguay|
-|Brazil|![Brazilball](images/brazil.png)|`22`|brazil|
+|Brazil|![Brazilball](images/brazil.png)|`22`|brasil|
 |Cuba|![Cubaball](images/cuba.png)|`23`|cuba|
 |Haiti|![Haitiball](images/haiti.png)|`24`|haiti|
-|Dominican Republic|![Dominicanball](images/dominicanrepublic.png)|`25`|dominicanrepublic|
+|Dominican Republic|![Dominicanball](images/dominicanrepublic.png)|`25`|republicadominicana|
 |Bahamas|![Bahamasball](images/bahamas.png)|`26`|bahamas|
-|Trinidad and Tobago|![Trinidadball](images/trinidadandtobago.png)|`27`|trinidadandtobago|
-|Spain|![Spainball](images/spain.png)|`28`|spain|
+|Trinidad and Tobago|![Trinidadball](images/trinidad.png)|`27`|trinidad|
+|Spain|![Spainball](images/spain.png)|`28`|españa|
 |Portugal|![Portugalball](images/portugal.png)|`29`|portugal|
 |France|![Franceball](images/france.png)|`30`|france|
-|Netherlands|![Netherlandsball](images/netherlands.png)|`31`|netherlands|
+|Netherlands|![Netherlandsball](images/netherlands.png)|`31`|paisesbajos|
 |Luxembourg|![Luxembourgball](images/luxembourg.png)|`32`|luxembourg|
-|Belgium|![Belgiumball](images/belgium.png)|`33`|belgium|
-|Italy|![Italyball](images/italy.png)|`34`|italy|
-|Switzerland|![Switzerlandball](images/switzerland.png)|`35`|switzerland|
+|Belgium|![Belgiumball](images/belgium.png)|`33`|belgia|
+|Italy|![Italyball](images/italy.png)|`34`|italia|
+|Switzerland|![Switzerlandball](images/switzerland.png)|`35`|suiza|
 |Austria|![Austriaball](images/austria.png)|`36`|austria|
-|Germany|![Germanyball](images/germany.png)|`37`|germany|
-|Poland|![Polandball](images/poland.png)|`38`|poland|
-|Hungary|![Hungaryball](images/hungary.png)|`39`|hungary|
-|Czechia|![Czechiaball](images/czechia.png)|`40`|czechia|
+|Germany|![Germanyball](images/germany.png)|`37`|alemania|
+|Poland|![Polandball](images/poland.png)|`38`|polonia|
+|Hungary|![Hungaryball](images/hungary.png)|`39`|hungria|
+|Czechia|![Czechiaball](images/czechia.png)|`40`|czech|
 |Slovakia|![Slovakiaball](images/slovakia.png)|`41`|slovakia|
 |Slovenia|![Sloveniaball](images/slovenia.png)|`42`|slovenia|
 |Croatia|![Croatiaball](images/croatia.png)|`43`|croatia|
@@ -57,7 +57,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Albania|![Albaniaball](images/albania.png)|`47`|albania|
 |Greece|![Greeceball](images/greece.png)|`48`|greece|
 |Macedonia|![Macedoniaball](images/macedonia.png)|`49`|macedonia|
-|Turkey|![Turkeyball](images/turkey.png)|`50`|turkey|
+|Türkiye|![Türkiyeball](images/turkey.png)|`50`|turkiye|
 |Bulgaria|![Bulgariaball](images/bulgaria.png)|`51`|bulgaria|
 |Romania|![Romaniaball](images/romania.png)|`52`|romania|
 |Moldova|![Moldovaball](images/moldova.png)|`53`|moldova|
@@ -74,8 +74,8 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Finland|![Finlandball](images/finland.png)|`64`|finland|
 |Norway|![Norwayball](images/norway.png)|`65`|norway|
 |Ireland|![Irelandball](images/ireland.png)|`66`|ireland|
-|United Kingdom|![UKball](images/unitedkingdom.png)|`67`|unitedkingdom|
-|Vatican City|![Vaticanball](images/vaticancity.png)|`68`|vaticancity|
+|United Kingdom (Britain)|![UKball](images/britain.png)|`67`|britain|
+|Vatican City|![Vaticanball](images/vatican.png)|`68`|vatican|
 |Georgia|![Georgiaball](images/georgia.png)|`69`|georgia|
 |Armenia|![Armeniaball](images/armenia.png)|`70`|armenia|
 |Azerbaijan|![Azerbaijanball](images/azerbaijan.png)|`71`|azerbaijan|
