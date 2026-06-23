@@ -1,7 +1,8 @@
 # Countryballs
 
 ![A countryball icon](images/blankico.png) **Countryballs** are characters in [Luces Siegas](lsgamepage.md) that are the primary characters and the
-only playable characters in the game.
+only playable characters in the game. Countryballs are either controlled by the [player](player.md)'s country or the game's AI.
+
 
 ## List of Countryballs and IDs / Internal Names
 There are a total of 189 Countryballs in the game and 191 total IDs (189 Countryballs and 2 special IDs)
