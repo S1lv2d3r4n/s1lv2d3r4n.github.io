@@ -88,3 +88,33 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Iran|![Iranball](images/iran.png)|`78`|iran|
 |Pakistan|![Pakistanball](images/pakistan.png)|`79`|pakistan|
 |India|![Indiaball](images/india.png)|`80`|india|
+|1ball|![1ball](images/1ball.png)|`81`|1ball|
+|2ball|![2ball](images/2ball.png)|`82`|2ball|
+|3ball|![3ball](images/3ball.png)|`83`|3ball|
+|4ball|![4ball](images/4ball.png)|`84`|4ball|
+|5ball|![5ball](images/5ball.png)|`85`|5ball|
+|6ball|![6ball](images/6ball.png)|`86`|6ball|
+|7ball|![7ball](images/7ball.png)|`87`|7ball|
+|8ball|![8ball](images/8ball.png)|`88`|8ball|
+|Iraq|![Iraqball](images/iraq.png)|`89`|irak|
+|Yemen|![Yemenball](images/yemen.png)|`90`|yemen|
+|United Arab Emirates|![UAEBall](images/uae.png)|`91`|eau|
+|Oman|![Omanball](images/oman.png)|`92`|oman|
+|Palestine|![Palestineball](images/palestine.png)|`93`|palestina|
+|Lebanon|![Lebanonball](images/lebanon.png)|`94`|libano|
+|Syria|![Syriaball](images/syria.png)|`95`|siria|
+|Jordan|![Jordanball](images/jordan.png)|`96`|jordania|
+|Kuwait|![Kuwaitball](images/kuwait.png)|`97`|kuwait|
+|Bahrain|![Bahrainball](images/bahrain.png)|`98`|barein|
+|Qatar|![Qatarball](images/qatar.png)|`99`|catar|
+|Nepal|![Nepalrawr](images/nepal.png)|`100`|nepal|
+|Bhutan|![Bhutanball](images/bhutan.png)|`101`|butan|
+|Bangladesh|![Bangladeshball](images/bangladesh.png)|`102`|banglades|
+|China|![Chinaball](images/china.png)|`103`|china|
+|North Korea|![North Koreaball](images/northkorea.png)|`104`|coreadelnorte|
+|South Korea|![South Koreaball](images/southkorea.png)|`105`|coreadelsur|
+|Japan|![Japanball](images/japan.png)|`106`|japon|
+|Mongolia|![Mongoliaball](images/mongolia.png)|`107`|mongolia|
+|Myanmar|![Myanmarball](images/myanmar.png)|`108`|myanmar|
+|Laos|![Laosball](images/laos.png)|`109`|laos|
+|Cambodia|![Cambodiaball](images/cambodia.png)|`110`|camboya|
