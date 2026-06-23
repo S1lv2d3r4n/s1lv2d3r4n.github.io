@@ -57,7 +57,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Albania|![Albaniaball](images/albania.png)|`47`|albania|
 |Greece|![Greeceball](images/greece.png)|`48`|greece|
 |Macedonia|![Macedoniaball](images/macedonia.png)|`49`|macedonia|
-|Türkiye|![Türkiyeball](images/turkey.png)|`50`|turkiye|
+|Türkiye (Turkey)|![Türkiyeball](images/turkey.png)|`50`|turkiye|
 |Bulgaria|![Bulgariaball](images/bulgaria.png)|`51`|bulgaria|
 |Romania|![Romaniaball](images/romania.png)|`52`|romania|
 |Moldova|![Moldovaball](images/moldova.png)|`53`|moldova|
@@ -79,12 +79,12 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Georgia|![Georgiaball](images/georgia.png)|`69`|georgia|
 |Armenia|![Armeniaball](images/armenia.png)|`70`|armenia|
 |Azerbaijan|![Azerbaijanball](images/azerbaijan.png)|`71`|azerbaijan|
-|Kazakhstan|![Kazakhstanball](images/kazakhstan.png)|`72`|kazakhstan|
+|Kazakhstan|![Kazakhstanbrick](images/kazakhstan.png)|`72`|kazakhstan|
 |Kyrgyzstan|![Kyrgyzstanball](images/kyrgyzstan.png)|`73`|kyrgyzstan|
 |Uzbekistan|![Uzbekistanball](images/uzbekistan.png)|`74`|uzbekistan|
 |Tajikistan|![Tajikistanball](images/tajikistan.png)|`75`|tajikistan|
-|Saudi Arabia|![Saudi Arabiaball](images/saudiarabia.png)|`76`|saudiarabia|
-|Afghanistan|![Afghanistanball](images/afghanistan.png)|`77`|afghanistan|
+|Saudi Arabia|![Saudi Arabiaball](images/saudiarabia.png)|`76`|arabiasaudita|
+|Afghanistan|![Afghanistanball](images/afghanistan.png)|`77`|afganistan|
 |Iran|![Iranball](images/iran.png)|`78`|iran|
 |Pakistan|![Pakistanball](images/pakistan.png)|`79`|pakistan|
 |India|![Indiaball](images/india.png)|`80`|india|
