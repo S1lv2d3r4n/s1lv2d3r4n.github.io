@@ -13,3 +13,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Belize|![Belizeball](images/belize.png)|`4`|belice|
 |United States|![United Statesball](images/usa.png)|`5`|america|
 |Honduras|![Hondurasball](images/honduras.png)|`6`|honduras|
+|Nicaragua|![Nicaraguaball](images/nicaragua.png)|`7`|nicaragua|
+|Canada|![Canadaball](images/canada.png)|`8`|canada|
+|Costa Rica|![Costa Ricaball](images/costarica.png)|`9`|costarica|
+|Panama|![Panamaball](images/canada.png)|`10`|panama|
