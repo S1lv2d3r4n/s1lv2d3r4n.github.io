@@ -10,3 +10,6 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |El Salvador|![El Salvadorball](images/elsalvador.png)|`1`|elsalvador|
 |Guatemala|![Guatemalaball](images/guatemala.png)|`2`|guatemala|
 |Mexico|![Mexicoball](images/mexico.png)|`3`|mexico|
+|Belize|![Belizeball](images/belize.png)|`4`|belice|
+|United States|![United Statesball](images/usa.png)|`5`|america|
+|Honduras|![Hondurasball](images/honduras.png)|`6`|honduras|
