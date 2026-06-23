@@ -22,3 +22,5 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Chile|![Chileball](images/chile.png)|`12`|chile|
 |Venezuela|![Venezuelaball](images/venezuela.png)|`13`|venezuela|
 |Ecuador|![Ecuadorball](images/ecuador.png)|`14`|ecuador|
+|Peru|![Peruball](images/peru.png)|`15`|peru|
+|Bolivia|![Boliviaball](images/bolivia.png)|`16`|bolivia
