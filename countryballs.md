@@ -189,11 +189,11 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |East Germany|![East Germanyball](images/ostdeutschland.png)|`179`|alemaniadeleste|
 |Soviet Union|![Soviet Unionball](images/sovietunion.png)|`180`|unionsovietica|
 |Civilian Ensign (El Salvador)|![ElSalvadorCivilianEnsignball](images/elsalvadorcivil.png)|`181`|elsalvador2|
-|Austrian Empire|![AustrianEmpireball](images/austrianempire.png)|`182`|austria2|
+|Austrian Empire|![AustrianEmpireball](images/austria2.png)|`182`|austria2|
 |Yugoslavia|![Yugoslaviaball](images/yugoslavia.png)|`183`|yugoslavia|
 |Federal Republic of Central America|![FRCAball](images/frca.png)|`184`|republicafederaldecentroamerica|
 |Reichtangle|![Reichtangle](images/reichtangle.png)|`185`|reichtanglo|
-|El Salvador (1840s flag)|![ElSalvador1840sball](images/elsalvador_1840s.png)|`186`|elsalvador3|
+|El Salvador (Old Flag)|![ElSalvador1840sball](images/elsalvadorold.png)|`186`|elsalvador3|
 |Cabañas|![Cabañasball](images/cabanas.png)|`187`|cabanas|
 |Scotland|![Scotlandball](images/scotland.png)|`188`|esocia|
 |Antarctica|![Antarcticaball](images/antarctica.png)|`189`|antartida|   
