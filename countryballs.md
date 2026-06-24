@@ -122,7 +122,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Malaysia|![Malaysiaball](images/malaysia.png)|`112`|malaysia|
 |Thailand|![Thailandball](images/thailand.png)|`113`|tailandia|
 |Indonesia|![Indonesiaball](images/indonesia.png)|`114`|indonesia|
-|Philippines|![Philippinesball](images/philippines.png)|`115`|filipinas|
+|Philippines|![Philippinesball](images/phillippines.png)|`115`|filipinas|
 |Israel|![Israelcube](images/israel.png)|`116`|israel|
 |Australia|![Australiaball](images/australia.png)|`117`|australia|
 |New Zealand|![New Zealandball](images/newzealand.png)|`118`|nuevazelanda|
@@ -140,7 +140,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Ethiopia|![Ethiopiaball](images/ethiopia.png)|`130`|etiopia|
 |Eritrea|![Eritreaball](images/eritrea.png)|`131`|eritrea|
 |Djibouti|![Djiboutiball](images/djibouti.png)|`132`|yibuti|
-|Blank Blackball|![Blank Blackball](images/blank2.png)|`133`|enblanco2|
+|Blankball|![Blank Blackball](images/blank2.png)|`133`|enblanco2|
 |Niger|![Nigerball](images/niger.png)|`134`|niger|
 |Nigeria|![Nigeriaball](images/nigeria.png)|`135`|nigeria|
 |Chad|![Chadball](images/chad.png)|`136`|chad|
@@ -160,7 +160,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Botswana|![Botswanaball](images/botswana.png)|`150`|botsuana|
 |Malawi|![Malawiball](images/malawi.png)|`151`|malaui|
 |Republic of the Congo|![Congoball](images/congo.png)|`152`|congo|
-|Democratic Republic of the Congo|![DRCball](images/drc.png)|`153`|congo2|
+|Democratic Republic of the Congo|![DRCball](images/drcongo.png)|`153`|congo2|
 |Namibia|![Namibiaball](images/namibia.png)|`154`|namibia|
 |Testball|![Testball](images/testball.png)|`155`|pruebas|
 |Angola|![Angolaball](images/angola.png)|`156`|angola|
