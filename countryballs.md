@@ -4,7 +4,7 @@
 only playable characters in the game. Countryballs are either controlled by the [player](player.md)'s country or the game's AI.
 
 ## Jump To
-![A countryball icon](images/blankico.png) [Behavior and Mechanics](#behavior-and-mechanics)  
+![A countryball icon](images/blank.png) [Behavior and Mechanics](#behavior-and-mechanics)  
 ![Animated Countryball Icon](images/animico.gif) [List of Countryballs and IDs](#list-of-countryballs-and-idsinternal-names)
 
 ## Behavior and Mechanics
