@@ -57,7 +57,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Albania|![Albaniaball](images/albania.png)|`47`|albania|
 |Greece|![Greeceball](images/greece.png)|`48`|greece|
 |Macedonia|![Macedoniaball](images/macedonia.png)|`49`|macedonia|
-|Türkiye (Turkey)|![Türkiyeball](images/turkey.png)|`50`|turkiye|
+|Türkiye (Turkey)|![Türkiyeball](images/turkiye.png)|`50`|turkiye|
 |Bulgaria|![Bulgariaball](images/bulgaria.png)|`51`|bulgaria|
 |Romania|![Romaniaball](images/romania.png)|`52`|romania|
 |Moldova|![Moldovaball](images/moldova.png)|`53`|moldova|
