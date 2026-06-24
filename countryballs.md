@@ -5,7 +5,7 @@ only playable characters in the game. Countryballs are either controlled by the 
 
 ## Jump To
 ![A countryball icon](images/blankico.png) [Behavior and Mechanics](#behavior-and-mechanics)
-![Animated Countryball Icon](images/animico.png) [List of Countryballs and IDs](#list-of-countryballs-and-idsinternal-names)
+![Animated Countryball Icon](images/animico.gif) [List of Countryballs and IDs](#list-of-countryballs-and-idsinternal-names)
 
 ## Behavior and Mechanics
 A random quanity of 0-5 other countryballs spawns alongside the player during World Generation. There is a 50% chance for one of these countryballs to be a Blankball (id: `127`) which can be added to the [Player](player.md)'s country
