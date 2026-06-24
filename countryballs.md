@@ -199,6 +199,8 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Antarctica|![Antarcticaball](images/antarctica.png)|`189`|antartida|   
 
 ## Special IDs
+|Name|Image|ID|Internal Name|
+|----|----|----|----|
 |Boat|![Wooden Boat](images/boat.png)|`190`|barco|
-|Iron Boat|![Iron Boat](images/ironboat.png)|`191`|barco2|
+|Iron Boat|![Iron Boat](images/ironboat.png)|`191`|barco2|  
 
