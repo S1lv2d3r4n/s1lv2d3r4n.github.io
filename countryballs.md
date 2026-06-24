@@ -47,7 +47,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Germany|![Germanyball](images/germany.png)|`37`|alemania|
 |Poland|![Polandball](images/poland.png)|`38`|polonia|
 |Hungary|![Hungaryball](images/hungary.png)|`39`|hungria|
-|Czechia|![Czechiaball](images/czechia.png)|`40`|czech|
+|Czechia|![Czechiaball](images/czech.png)|`40`|czech|
 |Slovakia|![Slovakiaball](images/slovakia.png)|`41`|slovakia|
 |Slovenia|![Sloveniaball](images/slovenia.png)|`42`|slovenia|
 |Croatia|![Croatiaball](images/croatia.png)|`43`|croatia|
@@ -119,7 +119,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Laos|![Laosball](images/laos.png)|`109`|laos|
 |Cambodia|![Cambodiaball](images/cambodia.png)|`110`|camboya|
 |Vietnam|![Vietnamball](images/vietnam.png)|`111`|vietnam|
-|Malaysia|![Malaysiaball](images/malaysia.png)|`112`|malasia|
+|Malaysia|![Malaysiaball](images/malaysia.png)|`112`|malaysia|
 |Thailand|![Thailandball](images/thailand.png)|`113`|tailandia|
 |Indonesia|![Indonesiaball](images/indonesia.png)|`114`|indonesia|
 |Philippines|![Philippinesball](images/philippines.png)|`115`|filipinas|
@@ -149,9 +149,9 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Guinea|![Guineaball](images/guinea.png)|`139`|guinea|
 |Cote d'Ivoire (Ivory Coast)|![IvoryCoastball](images/cotedivoire.png)|`140`|ivorycoast|
 |Burkina Faso|![Burkinafasoball](images/burkinafaso.png)|`141`|burkinafaso|
-|Sierra Leone|![SierraLeoneball](images/sierraleone.png)|`142`|sierraleona|
+|Sierra Leone|![SierraLeoneball](images/sierraleone.png)|`142`|sierraleone|
 |Liberia|![Liberiaball](images/liberia.png)|`143`|liberia|
-|Cameroon|![Cameroonball](images/cameroon.png)|`144`|camerun|
+|Cameroon|![Cameroonball](images/cameroon.png)|`144`|cameroon|
 |Ghana|![Ghanaball](images/ghana.png)|`145`|ghana|
 |Benin|![Beninball](images/benin.png)|`146`|benin|
 |Togo|![Togoball](images/togo.png)|`147`|togo|
@@ -195,3 +195,10 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Reichtangle|![Reichtangle](images/reichtangle.png)|`185`|reichtanglo|
 |El Salvador (1840s flag)|![ElSalvador1840sball](images/elsalvador_1840s.png)|`186`|elsalvador3|
 |Cabañas|![Cabañasball](images/cabanas.png)|`187`|cabanas|
+|Scotland|![Scotlandball](images/scotland.png)|`188`|esocia|
+|Antarctica|![Antarcticaball](images/antarctica.png)|`189`|antartida|
+
+### Special IDs
+|Boat|![Wooden Boat](images/boat.png)|`190`|barco|
+|Iron Boat|![Iron Boat](images/ironboat.png)|`191`|barco2|
+
