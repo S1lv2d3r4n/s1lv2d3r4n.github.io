@@ -196,7 +196,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |El Salvador (1840s flag)|![ElSalvador1840sball](images/elsalvador_1840s.png)|`186`|elsalvador3|
 |Cabañas|![Cabañasball](images/cabanas.png)|`187`|cabanas|
 |Scotland|![Scotlandball](images/scotland.png)|`188`|esocia|
-|Antarctica|![Antarcticaball](images/antarctica.png)|`189`|antartida|
+|Antarctica|![Antarcticaball](images/antarctica.png)|`189`|antartida|   
 
 ## Special IDs
 |Boat|![Wooden Boat](images/boat.png)|`190`|barco|
