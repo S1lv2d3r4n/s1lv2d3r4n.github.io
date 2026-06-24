@@ -179,7 +179,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Burundi|![Burundiball](images/burundi.png)|`169`|burundi|
 |Comoros|![Comorosball](images/comoros.png)|`170`|comoros|
 |Seychelles|![Seychellesball](images/seychelles.png)|`171`|seychelles|
-|Sao Tome and Principe|![Saotomeball](images/saotomeandprincipe.png)|`172`|saotome|
+|Sao Tome and Principe|![Saotomeball](images/saotome.png)|`172`|saotome|
 |Central African Republic|![Central African Republicball](images/centralafricanrepublic.png)|`173`|republicacentroafricana|
 |Mauritius|![Mauritiusball](images/mauritius.png)|`174`|mauricio|
 |Cape Verde|![Cape Verdeball](images/capeverde.png)|`175`|caboverde|
