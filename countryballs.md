@@ -3,11 +3,15 @@
 ![A countryball icon](images/blankico.png) **Countryballs** are characters in [Luces Siegas](lsgamepage.md) that are the primary characters and the
 only playable characters in the game. Countryballs are either controlled by the [player](player.md)'s country or the game's AI.
 
+## Jump To
+![A countryball icon](images/blankico.png) [Behavior and Mechanics](#behavior-and-mechanics)
+![Animated Countryball Icon](images/animico.png) [List of Countryballs and IDs](#list-of-countryballs-and-idsinternal-names)
 
 ## Behavior and Mechanics
 A random quanity of 0-5 other countryballs spawns alongside the player during World Generation. There is a 50% chance for one of these countryballs to be a Blankball (id: `127`) which can be added to the [Player](player.md)'s country
 
-## List of Countryballs and IDs / Internal Names
+
+## List of Countryballs and IDs/Internal Names
 There are a total of 189 Countryballs in the game and 191 total IDs (189 Countryballs and 2 special IDs)
 |Name|Image|ID|Internal Name|
 |----|----|----|----|
