@@ -131,7 +131,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |South Sudan|![South Sudanball](images/southsudan.png)|`121`|sudandelsur|
 |Libya|![Libyaball](images/libya.png)|`122`|libia|
 |Algeria|![Algeriaball](images/algeria.png)|`123`|argelia|
-|Morocco|![Moroccoball](images/morocco.png)|`124`|marruecos|
+|Morocco|![Moroccoball](images/morrocco.png)|`124`|marruecos|
 |Mauritania|![Mauritaniaball](images/mauritania.png)|`125`|mauritania|
 |Tunisia|![Tunisiaball](images/tunisia.png)|`126`|tunez|
 |Blankball|![Blankball](images/blank.png)|`127`|enblanco|
