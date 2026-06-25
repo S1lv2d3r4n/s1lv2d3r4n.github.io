@@ -1,6 +1,9 @@
 # Countryballs
 
 
+![Image Warning](images/warningimg.png)
+
+
 ![A countryball icon](images/blankico.png) **Countryballs** are characters in [Luces Siegas](lsgamepage.md) that are the primary characters and the
 only playable characters in the game. Countryballs are either controlled by the [player's](player.md) country or the game's AI.
 
