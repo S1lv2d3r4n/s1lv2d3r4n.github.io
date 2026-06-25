@@ -1,7 +1,7 @@
 # Countryballs
 
 ![A countryball icon](images/blankico.png) **Countryballs** are characters in [Luces Siegas](lsgamepage.md) that are the primary characters and the
-only playable characters in the game. Countryballs are either controlled by the [player](player.md)'s country or the game's AI.
+only playable characters in the game. Countryballs are either controlled by the [player's](player.md) country or the game's AI.
 
 ## Jump To
 ![A countryball icon](images/blank.png) [Behavior and Mechanics](#behavior-and-mechanics)  
@@ -10,8 +10,16 @@ only playable characters in the game. Countryballs are either controlled by the 
 
 ## Behavior and Mechanics
 A random quantity of 0-5 other countryballs spawns alongside the player during World Generation.   
-There is a 50% chance for one of these countryballs to be a Blankball (id: `127`) which can be added to the [Player](player.md)'s country.
-~In Asylum Mode, all Countryballs that didnt spawn as a part of your country or as Blankballs are hostile~
+There is a `50%` chance for one of these countryballs to be a blank white "Blankball" (id: `127`) which can be added to the Player's country.
+
+### Breeding
+You can breed Countryballs of the opposite gender together (countryball type does NOT matter) by going near the other Countryball and pressing `B`  
+on your keyboard
+
+### In Asylum Mode
+In Asylum Mode, all Countryballs that did not spawn as a part of your country or as Blankballs are hostile towards the Player.  
+Breeding is disabled in Asylum Mode and therefore, more countryballs for your country are impossible to obtain unless you can find Blankballs.
+
 
 
 ## List of Countryballs and IDs/Internal Names
