@@ -164,7 +164,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Mali|![Maliball](images/mali.png)|`137`|mali|
 |Senegal|![Senegalball](images/senegal.png)|`138`|senegal|
 |Guinea|![Guineaball](images/guinea.png)|`139`|guinea|
-|Cote d'Ivoire (Ivory Coast)|![IvoryCoastball](images/cotedivoire.png)|`140`|ivorycoast|
+|Cote d'Ivoire (Ivory Coast)|![IvoryCoastball](images/ivorycoast.png)|`140`|ivorycoast|
 |Burkina Faso|![Burkinafasoball](images/burkinafaso.png)|`141`|burkinafaso|
 |Sierra Leone|![SierraLeoneball](images/sierraleone.png)|`142`|sierraleone|
 |Liberia|![Liberiaball](images/liberia.png)|`143`|liberia|
