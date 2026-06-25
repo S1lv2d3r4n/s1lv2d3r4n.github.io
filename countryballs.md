@@ -12,8 +12,8 @@ A random quantity of 0-5 other countryballs spawns alongside the player during W
 There is a `50%` chance for one of these countryballs to be a blank white "Blankball" (id: `127`) which can be added to the Player's country.
 
 ### Breeding
-You can breed Countryballs of the opposite gender together (countryball type does NOT matter) by going near the other Countryball and pressing `B`  
-on your keyboard
+You can breed ![A male countryball](images/male.png) ![A female countryball](images/female.png) Countryballs of the opposite gender together
+(countryball type does NOT matter) by going near the other Countryball and pressing `B` on your keyboard
 
 ### In Asylum Mode
 In Asylum Mode, all Countryballs that did not spawn as a part of your country or as Blankballs are hostile towards the Player.  
