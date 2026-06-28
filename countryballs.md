@@ -25,7 +25,8 @@ When breeding, stats are mixed between the two parents and merged down. The form
 
 ### Flag
 All Countryballs have an internal `pais` variable that controls their flag type
-To see a list of all possible appearances see [List of Countryballs and IDs/Internal Names](#list-of-countryballs-and-idsinternal-names)
+To see a list of all possible appearances see:
+[List of Countryballs and IDs/Internal Names](#list-of-countryballs-and-idsinternal-names)
 
 ### Breeding
 You can breed ![A male countryball](images/male.png) ![A female countryball](images/female.png) Countryballs of the opposite gender together
