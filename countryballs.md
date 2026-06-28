@@ -14,6 +14,10 @@ only playable characters in the game. Countryballs are either controlled by the 
 A random quantity of 0-5 other countryballs spawns alongside the player during World Generation.   
 There is a `50%` chance for one of these countryballs to be a blank white "Blankball" (id: `127`) which can be added to the Player's country.
 
+### AI
+Countryballs normally do not move much in the current version of Luces Siegas, v7.0.8 (`708`) unless they are colliding with another countryball, which will make the Countryball move away from the Countryball it is colliding with.
+Countryballs can pick up Items they are touching, but cannot leas
+
 ### Stats
 A countryball has four primary stats: `H` (Health), `F` (Strength), `E` (Endurance) and `V` (Speed)
 These stats can be any integer between `0` and `17` with `0` being the worst and `17` being the best.
@@ -37,8 +41,7 @@ In [Asylum Mode](lsasylum.md), all Countryballs that did not spawn as a part of 
 Breeding is disabled in Asylum Mode and therefore, more countryballs for your country are impossible to obtain unless you can find Blankballs.
 
 #### In Imperial Mode*
-In [Imperial Mode](lsimperialmode.md), Breeding works like in regular gameplay, however you cannot breed with the Bosses or the Empires themselves due to them not being considered 
-regular countryballs.
+In [Imperial Mode](lsimperialmode.md), Breeding works like in regular gameplay, however you cannot breed with the Bosses or the Empires themselves due to them not being considered regular countryballs.
 
 
 ## List of Countryballs and IDs/Internal Names
