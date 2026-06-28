@@ -14,6 +14,21 @@ only playable characters in the game. Countryballs are either controlled by the 
 A random quantity of 0-5 other countryballs spawns alongside the player during World Generation.   
 There is a `50%` chance for one of these countryballs to be a blank white "Blankball" (id: `127`) which can be added to the Player's country.
 
+### Stats
+A countryball has four primary stats: `H` (Health), `F` (Strength), `E` (Endurance) and `V` (Speed)
+These stats can be any integer between `0` and `17` with `0` being the worst and `17` being the best.
+When breeding, Stats are mixed between the two parents and merged down. The formula for breeding is listed below, where a is the first parent's stat and b is the second parent's stat.
+
+\[
+\lfloor \frac{a + b}{2} \rfloor
+\]
+
+Maximum HP (Hit Points) are caluculated using this formula, where the minimum HP is `60` and the maximum is `264`
+
+\[
+\text{MaxHP} = 60 + (h \cdot 12)
+\]
+
 ### Flag
 All Countryballs have an internal `pais` variable that controls their appearance
 
