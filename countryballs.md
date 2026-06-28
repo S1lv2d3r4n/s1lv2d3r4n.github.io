@@ -18,18 +18,14 @@ There is a `50%` chance for one of these countryballs to be a blank white "Blank
 A countryball has four primary stats: `H` (Health), `F` (Strength), `E` (Endurance) and `V` (Speed)
 These stats can be any integer between `0` and `17` with `0` being the worst and `17` being the best.
 Maximum HP (Hit Points) are calculated using this formula, where the minimum HP is `60` and the maximum is `264`:
-
-$$
-\text{MaxHP} = 60 + (h \cdot 12)
-$$
+maximumHP = (h*12) + 60
 
 When breeding, stats are mixed between the two parents and merged down. The formula for breeding is listed below, where a is the first parent's stat and b is the second parent's stat:
+(a+b) / 2 
 
-$$
-\lfloor \frac{a + b}{2} \rfloor
-$$
 ### Flag
-All Countryballs have an internal `pais` variable that controls their appearance
+All Countryballs have an internal `pais` variable that controls their flag type
+To see a list of all possible appearances see [List of Countryballs and IDs/Internal Names](#list-of-countryballs-and-idsinternal-names)
 
 ### Breeding
 You can breed ![A male countryball](images/male.png) ![A female countryball](images/female.png) Countryballs of the opposite gender together
