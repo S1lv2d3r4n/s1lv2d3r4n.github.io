@@ -43,7 +43,6 @@ Breeding is disabled in Asylum Mode and therefore, more countryballs for your co
 #### In Imperial Mode*
 In [Imperial Mode](lsimperialmode.md), Breeding works like in regular gameplay, however you cannot breed with the Bosses or the Empires themselves due to them not being considered regular countryballs.
 
-
 ## List of Countryballs and IDs/Internal Names
 There are a total of 189 Countryballs in the game and 191 total IDs (189 Countryballs and 2 special IDs)
 |Name|Image|ID|Internal Name|
@@ -243,4 +242,25 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |----|----|----|----|
 |Boat|![Wooden Boat](images/boat.png)|`190`|barco|
 |Iron Boat|![Iron Boat](images/ironboat.png)|`191`|barco2|  
+
+### Formables
+There are a few formables in **Luces Siegas**:
+#### Federal Republic of Central America 
+The ![Federal Republic of Central Americaball](images/frca.png) Federal Republic of Central America (id: `184`) can be formed by any of these nations:
+El Salvador ![El Salvador](images/elsalvador.png)
+Guatemala ![Guatemala](images/guatemala.png)
+Honduras ![Honduras](images/honduras.png)
+Nicaragua ![Nicaragua](images/nicaragua.png)
+*Costa Rica* ![Costa Rica](images/costarica.png)
+*Currently cannot form due to a bug in the current version*
+
+
+
+
+
+
+
+
+
+
 
