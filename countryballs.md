@@ -240,8 +240,9 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 ## Special IDs
 |Name|Image|ID|Internal Name|
 |----|----|----|----|
-|Boat|![Wooden Boat](images/boat.png)|`190`|barco|
-|Iron Boat|![Iron Boat](images/ironboat.png)|`191`|barco2|  
+|Boat|![Wooden Boat](images/boat.png)|`190`|barco|        
+|Iron Boat|![Iron Boat](images/ironboat.png)|`191`|barco2|    
+
 
 ### Formables
 There are a few formables in **Luces Siegas**:
