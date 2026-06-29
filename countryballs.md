@@ -252,7 +252,7 @@ El Salvador ![El Salvador](images/elsalvador.png)
 Guatemala ![Guatemala](images/guatemala.png)
 Honduras ![Honduras](images/honduras.png)
 Nicaragua ![Nicaragua](images/nicaragua.png)
-*Costa Rica* ![Costa Rica](images/costarica.png)
+*Costa Rica\** ![Costa Rica](images/costarica.png)
 *Currently cannot form due to a bug in the current version*
 
 
