@@ -4,3 +4,9 @@ Be aware that the guides are written in *Markdown* and some stuff may not load c
 
 ## For Beginners
 [Your first Game](guides/yourfirstgame.md)
+[Resource Management](guides/resourcemng.md)
+[Problem Solving](guides/problemsolving.md)
+[TipsandTricks](guides/tipsandtricks.md)
+
+## Advanced Guides
+[Modding Guide](guides/moddingls.md)
