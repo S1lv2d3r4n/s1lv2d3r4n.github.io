@@ -45,6 +45,7 @@ In [Imperial Mode](lsimperialmode.md), Breeding works like in regular gameplay, 
 
 ## List of Countryballs and IDs/Internal Names
 There are a total of 189 Countryballs in the game and 191 total IDs (189 Countryballs and 2 special IDs)
+
 |Name|Image|ID|Internal Name|
 |----|----|----|----|
 |El Salvador|![El Salvadorball](images/elsalvador.png)|`1`|elsalvador|
@@ -236,6 +237,7 @@ There are a total of 189 Countryballs in the game and 191 total IDs (189 Country
 |Cabañas|![Cabañasball](images/cabanas.png)|`187`|cabanas|
 |Scotland|![Scotlandball](images/scotland.png)|`188`|esocia|
 |Antarctica|![Antarcticaball](images/antarctica.png)|`189`|antartida|   
+
 
 ## Special IDs
 |Name|Image|ID|Internal Name|
